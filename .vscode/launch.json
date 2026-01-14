@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch ConsoleApp1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build ConsoleApp1",
+            "program": "${workspaceFolder}/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ConsoleApp1",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch ConsoleApp2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build ConsoleApp2",
+            "program": "${workspaceFolder}/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ConsoleApp2",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}
