@@ -1,0 +1,15 @@
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\bin\Debug\net10.0\FileManagementSystem.exe
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\bin\Debug\net10.0\FileManagementSystem.deps.json
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\bin\Debug\net10.0\FileManagementSystem.runtimeconfig.json
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\bin\Debug\net10.0\FileManagementSystem.dll
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\bin\Debug\net10.0\FileManagementSystem.pdb
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.AssemblyInfoInputs.cache
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.AssemblyInfo.cs
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.sourcelink.json
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.dll
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\refint\FileManagementSystem.dll
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.pdb
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\FileManagementSystem.genruntimeconfig.cache
+C:\Users\erlen\.NET\.NETConsoleTests\FileManagementSystem\obj\Debug\net10.0\ref\FileManagementSystem.dll

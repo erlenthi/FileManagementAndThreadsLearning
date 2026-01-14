@@ -2,26 +2,26 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch ConsoleApp1",
+            "name": "Launch FileManagementSystem",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build ConsoleApp1",
-            "program": "${workspaceFolder}/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll",
+            "preLaunchTask": "build FileManagementSystem",
+            "program": "${workspaceFolder}/FileManagementSystem/bin/Debug/net10.0/FileManagementSystem.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ConsoleApp1",
+            "cwd": "${workspaceFolder}/FileManagementSystem",
             "console": "internalConsole",
             "stopAtEntry": false
-        },
-        {
-            "name": "Launch ConsoleApp2",
-            "type": "coreclr",
-            "request": "launch",
-            "preLaunchTask": "build ConsoleApp2",
-            "program": "${workspaceFolder}/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/ConsoleApp2",
-            "console": "internalConsole",
-            "stopAtEntry": false
-        }
+        }//,
+        // {
+        //     "name": "Launch FileManagementSystem2",
+        //     "type": "coreclr",
+        //     "request": "launch",
+        //     "preLaunchTask": "build FileManagementSystem2",
+        //     "program": "${workspaceFolder}/FileManagementSystem2/bin/Debug/net10.0/FileManagementSystem2.dll",
+        //     "args": [],
+        //     "cwd": "${workspaceFolder}/FileManagementSystem2",
+        //     "console": "internalConsole",
+        //     "stopAtEntry": false
+        // }
     ]
 }
