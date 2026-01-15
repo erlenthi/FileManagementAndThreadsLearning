@@ -1,0 +1,15 @@
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.AssemblyInfoInputs.cache
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.AssemblyInfo.cs
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.csproj.CoreCompileInputs.cache
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.sourcelink.json
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\bin\Debug\net10.0\LINQLearning.exe
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\bin\Debug\net10.0\LINQLearning.deps.json
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\bin\Debug\net10.0\LINQLearning.runtimeconfig.json
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\bin\Debug\net10.0\LINQLearning.dll
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\bin\Debug\net10.0\LINQLearning.pdb
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.dll
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\refint\LINQLearning.dll
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.pdb
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\LINQLearning.genruntimeconfig.cache
+C:\Users\erlen\.NET\.NETConsoleTests\LINQLearning\obj\Debug\net10.0\ref\LINQLearning.dll

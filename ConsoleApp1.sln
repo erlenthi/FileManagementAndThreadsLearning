@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "otherConsoleApp", "otherCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "otherConsoleApp\ConsoleApp3\ConsoleApp3.csproj", "{D27F3356-A247-4FF7-88A1-744062C65E9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQLearning", "LINQLearning\LINQLearning.csproj", "{3696D883-080B-4646-ABCA-60E128145F9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,18 @@ Global
 		{D27F3356-A247-4FF7-88A1-744062C65E9B}.Release|x64.Build.0 = Release|Any CPU
 		{D27F3356-A247-4FF7-88A1-744062C65E9B}.Release|x86.ActiveCfg = Release|Any CPU
 		{D27F3356-A247-4FF7-88A1-744062C65E9B}.Release|x86.Build.0 = Release|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Debug|x64.Build.0 = Debug|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Debug|x86.Build.0 = Debug|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Release|x64.ActiveCfg = Release|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Release|x64.Build.0 = Release|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Release|x86.ActiveCfg = Release|Any CPU
+		{3696D883-080B-4646-ABCA-60E128145F9F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

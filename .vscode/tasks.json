@@ -13,7 +13,22 @@
             ],
             "problemMatcher": "$msCompile",
             "group": "build"
-        }// },
+        },
+        {
+            "label": "build LINQLearning",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/LINQLearning/LINQLearning.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile",
+            "group": "build"
+        }
+        
+        // },
         // {
         //     "label": "build FileManagementSystem2",
         //     "command": "dotnet",

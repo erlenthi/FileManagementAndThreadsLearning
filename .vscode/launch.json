@@ -11,7 +11,20 @@
             "cwd": "${workspaceFolder}/FileManagementSystem",
             "console": "internalConsole",
             "stopAtEntry": false
-        }//,
+        }, 
+        {
+            "name": "Launch LINQLearning",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build LINQLearning",
+            "program": "${workspaceFolder}/LINQLearning/bin/Debug/net10.0/LINQLearning.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/LINQLearning",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+        
+        //,
         // {
         //     "name": "Launch FileManagementSystem2",
         //     "type": "coreclr",
